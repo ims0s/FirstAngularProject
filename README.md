@@ -5,5 +5,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Topics
 - create components and test them
 - implement routers and use it
-
 **this is the first angular project**
